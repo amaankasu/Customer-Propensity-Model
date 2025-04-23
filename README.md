@@ -141,22 +141,9 @@ npm start
 
 ---
 
-## Contributors
-
-- **22101B0049 – Halim Shaikh**
-- **22101B0046 – Amaan Kasu**
-- **22101B0062 – Ganesh**
-- **Guide:** Prof. Deepali Shrikhande
-
----
-
 ## References
 
 - scikit-learn documentation
 - XGBoost documentation
 - Flask documentation
 - ReactJS documentation
-
----
-
-> _This project was developed as a mini project for T.E. (Information Technology) at Vidyalankar Institute of Technology, University of Mumbai (2024-25)._
